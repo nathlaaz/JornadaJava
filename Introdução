@@ -1,0 +1,15 @@
+/* Esse é um espaço dedicado ao registro do meu aprendizado na linguagem Java. */ 
+
+/* 
+ * INTRODUÇÃO
+ *Podemos escrever códigos que geram "outputs", "saídas?"
+ * Para produzir uma mensagem, temos a instrução (println) -> System.out.println("This is an Output message.");
+ * 
+ *Cada sentença/declaração precisa ser finalizada com um ponto-e-vírgula ";" e podemos escrever quantas quisermos, e as instruções serão executadas do início ao fim das linhas de código escritas.
+ *
+ *Na linguagem Java, para o código rodar certo, faz diferença iniciar uma sentença com letras Maiúsculas ou minúsculas!!! Diz-se que Java é uma linguagem "case-sensitive".
+ *
+ *Números e textos são lidos de formas diferentes - textos precisam estar entre aspas: 
+ System.out.println("Um milhão.");
+ System.out.println(1000000);
+ */ 
