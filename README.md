@@ -1,7 +1,7 @@
 # Jornada Java :D 
 
 <p align="center">
-  <img src="./img/1_KHoG7TZROBiJ_RQ8rGLWUQ.jpg" alt="JornadaJava" width="2048">
+  <img src="./downloads/1_KHoG7TZROBiJ_RQ8rGLWUQ.jpg" alt="JornadaJava" width="2048">
 
 Este repositório foi criado para documentar meu aprendizado da linguagem Java. Tenho outros três repositórios:
 
